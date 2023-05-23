@@ -1,0 +1,38 @@
+
+#title{
+    text-align:center;
+    background-color: rgb(205, 165, 165);
+    color: chartreuse;
+}
+
+.custom-btn {
+    background-color: chartreuse !important;
+    color: rgb(16, 3, 73) !important;
+  }
+
+
+
+#date{
+    background-color: lightsalmon !important;
+}
+
+
+
+#priceTable{
+    background-color: blueviolet;
+}
+
+.tableOverwrite {
+    background-color: aqua !important;
+    padding: 15px;
+    border-spacing: 15px 15px !important;
+
+}
+.tablePending {
+    background-color: rgb(229, 97, 123) !important;
+     padding: 15px;
+}
+.tableOverwrite thead{
+    background-color: black !important;
+    color: white !important;
+    }
